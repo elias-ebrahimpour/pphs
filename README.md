@@ -103,6 +103,11 @@ files into any directory being served** (uploaded filenames are sanitized
 against path traversal, but there is no authentication). Only run `pphs` on
 networks you trust.
 
+## Thanks
+
+Special thanks to my technical dudes, ChatGPT and Claude.
+
+
 ## License
 
 MIT
