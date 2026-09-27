@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pphs"
-version = "1.0.0"
+version = "1.0.1"
 description = "A polished developer-friendly static file server with a searchable file browser and code viewer."
 readme = "README.md"
 requires-python = ">=3.10"
